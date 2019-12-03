@@ -52,7 +52,7 @@ The main tasks for this exercise are as follows:
     - Project template: **Web Application**
     - Enable docker support: **False**
     - Configure for HTTPS: **False**
-    - Select : **ASP .NET Core 2.1**
+    - Select : **ASP .NET Core 2.1**  (Important : the project template are different with newer versions)
 
 2. Start the application without debugging.
 
@@ -306,6 +306,7 @@ The main tasks for this exercise are as follows:
     - Project template: **API**
     - Enable docker support: **False**
     - Configure for HTTPS: **False**
+    - Select : **ASP .NET Core 2.1**  (Important : the project template are different with newer versions)
 
 #### Task 2: Explore the application structure
 
@@ -489,7 +490,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Creating an MVC application
 
-1. Open Visual Studio 2017 and create a new **ASP.NET Core Web Application** with following information:
+1. Open Visual Studio 2019 and create a new **ASP.NET Core Web Application** with following information:
 
     - Name: **AnimalsMvc**
     - Location: **[Repository Root]\Allfiles\Mod01\Labfiles\03_AnimalMvc_begin**
@@ -498,6 +499,7 @@ The main tasks for this exercise are as follows:
     - Project template: **Web Application (Model-View-Controller)**
     - Enable docker support: **False**
     - Configure for HTTPS: **False**
+    - Select : **ASP .NET Core 2.1**  (Important : the project template are different with newer versions)
 
 2. Start the application without debugging.
 
