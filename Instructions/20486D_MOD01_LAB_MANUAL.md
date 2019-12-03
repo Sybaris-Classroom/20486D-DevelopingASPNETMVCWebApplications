@@ -43,7 +43,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Creating a Razor Pages application
 
-1. Start Visual Studio 2017 and create a new **ASP.NET Core Web Application** with following information:
+1. Start Visual Studio 2019 and create a new **ASP.NET Core Web Application** with following information:
 
     - Name: **ActorsRazorPages**
     - Location: **[Repository Root]\Allfiles\Mod01\Labfiles\01_ActorsRazorPages_begin**
@@ -52,6 +52,7 @@ The main tasks for this exercise are as follows:
     - Project template: **Web Application**
     - Enable docker support: **False**
     - Configure for HTTPS: **False**
+    - Select : **ASP .NET Core 2.1**
 
 2. Start the application without debugging.
 
@@ -296,7 +297,7 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Creating a Web API application
 
-1. Open Visual Studio 2017 and create a new **ASP.NET Core Web Application** with the following information:
+1. Open Visual Studio 2019 and create a new **ASP.NET Core Web Application** with the following information:
 
     - Name: **CakeStoreApi**
     - Location: **[Repository Root]\Allfiles\Mod01\Labfiles\02_CakeStoreApi_begin**
