@@ -50,7 +50,7 @@ The main tasks for this exercise are the following:
 
 ####	Task 1: Create a new project by using the ASP.NET Core Empty project template
 
-1. Open Microsoft Visual Studio 2017 and create a new ASP.NET Core web application with following information:
+1. Open Microsoft Visual Studio 2019 and create a new ASP.NET Core web application with following information:
 
     - Name: **PollBall**
     - Location: **[Repository Root]\Allfiles\Mod03\Labfiles\01_PollBall_begin**
